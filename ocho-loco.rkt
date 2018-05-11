@@ -4,5 +4,4 @@
 (require games/cards)
 
 (define ventana (open-viewport "Ocho-Loco" 600 600))
-(make-deck)
 
