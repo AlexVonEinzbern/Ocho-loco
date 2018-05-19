@@ -4,7 +4,7 @@
 (require "imagenes.rkt")
 
 ;;Desde "imagenes.rkt" podemos importar todas las cartas como solo usar el logo-bitmap
-(define logo-bitmap black_joker)
+(define logo-bitmap crazyeights_logo)
 
 ;; Let's make a larger bitmap, tamaño de la ventana 800x600
 (define large-bitmap (make-bitmap 800 600))
