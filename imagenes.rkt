@@ -59,7 +59,7 @@
 
 (define black_joker (read-bitmap "images/black_joker.png"))
 (define red_joker (read-bitmap "images/red_joker.png"))
-(define crazyeights_logo (read-bitmap "images/crazyeights_logo.png"))
+(define crazyeights_logo (read-bitmap "images/crazyeights-logo.png"))
 
 
 (provide (all-defined-out))
