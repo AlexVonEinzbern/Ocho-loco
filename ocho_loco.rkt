@@ -33,13 +33,6 @@
      (label "&Ayuda")
      (parent menu-bar))
 
-;(define button (new button%
-;                    (parent f)
-;                    (label "Iniciar")
-;                    (stretchable-width 0)
-;   	 	            (stretchable-height 0)
-;               ))
-
 (send f show #t)
 (void (new message% [parent f] [label large-bitmap]))
 
